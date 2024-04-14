@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hardik22092003
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on making websites
+- 👀 I’m interested in working on electrical and electronics project.
+- 🌱  Currently working on weather balloon and nano sats.
+- 💞️ "I am looking forward to working as a research scholar under an IIT professor."
 - 📫 Reach me through linkedin on www.linkedin.com/in/hardik-sahu-07296b24b
 
 <!---
