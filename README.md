@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hardik22092003
-- 👀 I’m interested in working on electrical and electronics project.
-- 🌱  Currently working on weather balloon and nano sats.
-- 💞️ "I am looking forward to working as a research scholar under an IIT professor."
+- 👋 Hi, I’m Hardik Sahu
+- 👀 I’m a third year electrical engineering student at manit bhopal.
+- 🌱  Currently learning Machine Learning and Web Development. 
+- 💞️ "I am looking forward to work on live projects as an intern."
 - 📫 Reach me through linkedin on www.linkedin.com/in/hardik-sahu-07296b24b
 
 <!---
