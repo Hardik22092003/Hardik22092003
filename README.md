@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hardik Sahu
-- 👀 I’m a third year electrical engineering student at manit bhopal.
-- 🌱  Currently learning Machine Learning and Web Development. 
-- 💞️ "I am looking forward to work on live projects as an intern."
+- 👀 I’m a 4th year electrical engineering student at Manit Bhopal.
+- 🌱 Creating innovative and unique full-stack web development solutions. 
+- 🎓 I am looking forward to start my professional journey.
 - 📫 Reach me through linkedin on www.linkedin.com/in/hardik-sahu-07296b24b
 
 <!---
